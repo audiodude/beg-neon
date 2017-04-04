@@ -1,0 +1,11 @@
+click==6.7
+Flask==0.12
+httplib2==0.10.3
+itsdangerous==0.24
+Jinja2==2.9.5
+MarkupSafe==0.23
+PySocks==1.6.6
+pytz==2016.10
+six==1.10.0
+twilio==5.7.0
+Werkzeug==0.11.15
